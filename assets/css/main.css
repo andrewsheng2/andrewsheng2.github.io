@@ -49,6 +49,13 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	  }
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1692,6 +1699,10 @@
 			text-decoration: none;
 		}
 
+	h1 {
+		font-size: 3rem;
+	}
+	
 	h2 {
 		font-size: 1.75rem;
 	}
