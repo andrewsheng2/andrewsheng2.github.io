@@ -49,12 +49,19 @@
 		-webkit-text-size-adjust: none;
 	}
 
-	.center {
+	.square {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
-		width: 50%;
-	  }
+		width: 60%;
+	}
+
+	.rect {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 85%;
+	}
 
 /* Box Model */
 
